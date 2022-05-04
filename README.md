@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Gmail](https://img.shields.io/badge/Gmail-msz13399173387@gmail.com-orange?logo=gmail)](mailto://msz13399173387@gmail.com)
+
 I'm a student in USTB, major in IoT.
 
 <!--
