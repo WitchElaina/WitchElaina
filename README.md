@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![WitchElaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitchElaina&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WitchElaina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WitchElaina&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Listening
 
