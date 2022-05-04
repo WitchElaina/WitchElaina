@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![WitchElaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitchElaina)](https://github.com/anuraghazra/github-readme-stats)
+<div align=center>[![WitchElaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitchElaina)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wbjt6gkngdmcajuwnec77vwdyq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31wbjt6gkngdmcajuwnec77vwdyq&redirect=true)
+<div align=center>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wbjt6gkngdmcajuwnec77vwdyq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31wbjt6gkngdmcajuwnec77vwdyq&redirect=true)
