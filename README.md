@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a student in USTB, major in IoT.
+
 <!--
 **WitchElaina/WitchElaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My Stats
 
-<div align=center>[![WitchElaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitchElaina)](https://github.com/anuraghazra/github-readme-stats)
+[![WitchElaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitchElaina)](https://github.com/anuraghazra/github-readme-stats)
 
-<div align=center>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wbjt6gkngdmcajuwnec77vwdyq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31wbjt6gkngdmcajuwnec77vwdyq&redirect=true)
+### Listening
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wbjt6gkngdmcajuwnec77vwdyq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31wbjt6gkngdmcajuwnec77vwdyq&redirect=true)
