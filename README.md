@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-[![Gmail](https://img.shields.io/badge/Gmail-msz13399173387@gmail.com-orange?logo=gmail)](mailto://msz13399173387@gmail.com)
-
-I'm a student in USTB, major in IoT.
+I'm a student in USTB, major in IoT. [![Gmail](https://img.shields.io/badge/Gmail-msz13399173387@gmail.com-orange?logo=gmail)](mailto:msz13399173387@gmail.com)
 
 <!--
 **WitchElaina/WitchElaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,9 +18,7 @@ Here are some ideas to get you started:
 -->
 ### My Stats
 
-[![WitchElaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitchElaina&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WitchElaina&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![WitchElaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitchElaina&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WitchElaina&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Listening
 
