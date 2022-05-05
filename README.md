@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 ### Listening
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wbjt6gkngdmcajuwnec77vwdyq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31wbjt6gkngdmcajuwnec77vwdyq&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wbjt6gkngdmcajuwnec77vwdyq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31wbjt6gkngdmcajuwnec77vwdyq&redirect=true)
