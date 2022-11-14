@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm a student in USTB, major in IoT. [![Gmail](https://img.shields.io/badge/Gmail-msz13399173387@gmail.com-orange?logo=gmail)](mailto:msz13399173387@gmail.com)
+I'm a student in USTB, major in IoT. 
+
+Contact me: [![Gmail](https://img.shields.io/badge/Gmail-mail@mszook.art-orange?logo=gmail)](mailto:mail@mszook.art)
+
+Personal site: [mszook.art](http://mszook.art/)
 
 <!--
 **WitchElaina/WitchElaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
