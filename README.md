@@ -2,9 +2,13 @@
 
 I'm a student in USTB, major in IoT. 
 
+Language: 中文/English
+
 Contact me: [![Gmail](https://img.shields.io/badge/Gmail-mail@mszook.art-orange?logo=gmail)](mailto:mail@mszook.art)
 
 Personal site: [mszook.art](http://mszook.art/)
+
+USTB Codes and Labs: [https://github.com/WitchElaina/USTB-Computer-Courses-Codes](https://github.com/WitchElaina/USTB-Computer-Courses-Codes)
 
 <!--
 **WitchElaina/WitchElaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
