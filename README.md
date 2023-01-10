@@ -6,7 +6,8 @@ Language: 中文/English
 
 Contact me: [![Gmail](https://img.shields.io/badge/Gmail-mail@mszook.art-orange?logo=gmail)](mailto:mail@mszook.art)
 
-Personal site: [mszook.art](http://mszook.art/)
+Personal site: [mszook.art](https://mszook.art/)
+Blog: [WitchElaina.github.io](https://WitchElaina.github.io/)
 
 USTB Codes and Labs: [https://github.com/WitchElaina/USTB-Computer-Courses-Codes](https://github.com/WitchElaina/USTB-Computer-Courses-Codes)
 
