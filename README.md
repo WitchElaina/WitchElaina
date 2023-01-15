@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 ### My Stats
 
-[![WitchElaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitchElaina&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WitchElaina&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+[![WitchElaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitchElaina&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WitchElaina&layout=compact&hide=html&exclude_repo=EOS-Lab-USTB,WitchElaina.github.io,Aomaotuan-online-shopping)](https://github.com/anuraghazra/github-readme-stats)
 
 <details>
   <summary>Coding Freq</summary>
