@@ -1,30 +1,15 @@
-### Hi there 👋
+## Hi there 👋
+
+[![Gmail](https://img.shields.io/badge/Gmail-mail@mszook.art-orange?logo=gmail)](mailto:mail@mszook.art)
 
 I'm a student in USTB, major in IoT. 
 
-Language: 中文/English
+Language: 中文 | English
 
-Contact me: [![Gmail](https://img.shields.io/badge/Gmail-mail@mszook.art-orange?logo=gmail)](mailto:mail@mszook.art)
 
-Personal site: [mszook.art](https://mszook.art/)
-Blog: [WitchElaina.github.io](https://WitchElaina.github.io/)
+[Personal site](https://mszook.art/)  |  [Notion notes](https://witchelaina.notion.site/Fronted-96fe8c23b72342ed9a8cccaad4a19f64)  |  [Blog](https://WitchElaina.github.io/) | [USTB Codes and Labs](https://github.com/WitchElaina/USTB-Computer-Courses-Codes)
 
-USTB Codes and Labs: [https://github.com/WitchElaina/USTB-Computer-Courses-Codes](https://github.com/WitchElaina/USTB-Computer-Courses-Codes)
 
-<!--
-**WitchElaina/WitchElaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ### My Stats
 
 [![WitchElaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitchElaina&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WitchElaina&layout=compact&hide=html&exclude_repo=EOS-Lab-USTB,WitchElaina.github.io,Aomaotuan-online-shopping)](https://github.com/anuraghazra/github-readme-stats)
