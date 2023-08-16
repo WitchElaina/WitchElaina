@@ -22,8 +22,12 @@ Language: 中文 | English
 [![Battle-Helper](https://github-readme-stats.vercel.app/api/pin/?username=WitchElaina&repo=BattleNet-Login-Helper)](https://github.com/WitchElaina/BattleNet-Login-Helper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WitchElaina&repo=mty-ui)](https://github.com/WitchElaina/mty-ui)
 
+### My bot
+<br>
+<p  align="center"><a href="https://github.com/orgs/MisakaBot/repositories"><img src="/logo.svg"></img></a></p>
+<p  align="center">↑ click to get more infomation ↑</p>
 
-<a href="https://github.com/orgs/MisakaBot/repositories"><span>MisakaBot - Next Generation Bot based on Koishi</span></a>
+### Status
 
 <details>
   <summary>Coding Freq</summary>
