@@ -7,18 +7,27 @@ I'm a student in USTB, major in IoT.
 Language: 中文 | English
 
 
-[Personal site](https://mszook.art/)  |  [Notion notes](https://witchelaina.notion.site/Fronted-96fe8c23b72342ed9a8cccaad4a19f64)  |  [Blog](https://WitchElaina.github.io/) | [USTB Codes and Labs](https://github.com/WitchElaina/USTB-Computer-Courses-Codes)
+[Personal site](https://mszook.art/)  |  [Notion notes](https://witchelaina.notion.site/Fronted-96fe8c23b72342ed9a8cccaad4a19f64)  |  [Blog](https://WitchElaina.github.io/) 
+
+[![Ustb-codes](https://github-readme-stats.vercel.app/api/pin/?username=WitchElaina&repo=USTB-Computer-Courses-Codes)](https://github.com/WitchElaina/USTB-Computer-Courses-Codes)
+
 
 
 ### My Stats
 
 [![WitchElaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=WitchElaina&show_icons=true&hide=issues)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WitchElaina&layout=compact&hide=html&exclude_repo=EOS-Lab-USTB,WitchElaina.github.io,Aomaotuan-online-shopping)](https://github.com/anuraghazra/github-readme-stats)
 
+### My Awesome Works
+
+[![Battle-Helper](https://github-readme-stats.vercel.app/api/pin/?username=WitchElaina&repo=BattleNet-Login-Helper)](https://github.com/WitchElaina/BattleNet-Login-Helper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WitchElaina&repo=mty-ui)](https://github.com/WitchElaina/mty-ui)
+
+
+<a href="https://github.com/orgs/MisakaBot/repositories"><span>MisakaBot - Next Generation Bot based on Koishi</span></a>
+
 <details>
   <summary>Coding Freq</summary>
   <a href="https://wakatime.com"><img src="https://wakatime.com/share/@b2ca97db-bce2-4b9b-8588-23c0de16890a/095b592a-2668-4944-8e3e-8bd80755dcda.png" /></a>
 </details>
 
-### Listening
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31wbjt6gkngdmcajuwnec77vwdyq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31wbjt6gkngdmcajuwnec77vwdyq&redirect=true)
