@@ -2,12 +2,12 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-mail@mszook.art-orange?logo=gmail)](mailto:mail@mszook.art)
 
-I'm a student in USTB, major in IoT. 
+Graduated from USTB, major in IoT. 
 
-Language: 中文 | English
+Spoken Language: 中文 | English
 
 
-[Personal site](https://mszook.art/)  |  [Notion notes](https://witchelaina.notion.site/Fronted-96fe8c23b72342ed9a8cccaad4a19f64)  |  [Blog](https://WitchElaina.github.io/) 
+[Blog](https://witchelaina-blog.vercel.app/)  |  [Notion notes](https://witchelaina.notion.site/Fronted-96fe8c23b72342ed9a8cccaad4a19f64) 
 
 [![Ustb-codes](https://github-readme-stats.vercel.app/api/pin/?username=WitchElaina&repo=USTB-Computer-Courses-Codes)](https://github.com/WitchElaina/USTB-Computer-Courses-Codes)
 
@@ -22,10 +22,6 @@ Language: 中文 | English
 [![Battle-Helper](https://github-readme-stats.vercel.app/api/pin/?username=WitchElaina&repo=BattleNet-Login-Helper)](https://github.com/WitchElaina/BattleNet-Login-Helper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WitchElaina&repo=mty-ui)](https://github.com/WitchElaina/mty-ui)
 
-### My bot
-<br>
-<p  align="center"><a href="https://github.com/orgs/MisakaBot/repositories"><img src="/logo.svg"></img></a></p>
-<p  align="center">↑ click to get more infomation ↑</p>
 
 ### Status
 
